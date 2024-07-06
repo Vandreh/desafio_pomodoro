@@ -10,4 +10,4 @@ yarn dev
 localhost:5173
 
 
-![Uploading image.png…]()
+![Uploading image.jpeg…]()
