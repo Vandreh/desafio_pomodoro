@@ -1,7 +1,10 @@
 # Terminal:
-  git clone https://github.com/Vandreh/desafio_pomodoro.git
-  \n yarn install
-  \n yarn dev
+git clone https://github.com/Vandreh/desafio_pomodoro.git
+
+yarn install
+
+yarn dev
 
 # no seu Brouser:
-  localhost:5173
+
+localhost:5173
