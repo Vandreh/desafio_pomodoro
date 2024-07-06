@@ -10,4 +10,4 @@ yarn dev
 localhost:5173
 
 
-![Uploading image.jpeg…]()
+![Uploading image.jpeg…](https://github.com/Vandreh/desafio_pomodoro/blob/main/image.jpeg)
